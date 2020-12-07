@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/html_writer.cpp
+fmt/core.h
+-
+html_writer.hpp
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/html_writer.hpp
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/html_writer.hpp
+string
+-
+

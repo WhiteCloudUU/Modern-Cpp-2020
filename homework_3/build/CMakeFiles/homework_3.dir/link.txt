@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -fPIC  -rdynamic CMakeFiles/homework_3.dir/main.cpp.o  -o ../bin/homework_3  ../lib/libimage_browser.a ../lib/libhtml_writer.a /usr/local/lib/libfmt.a 

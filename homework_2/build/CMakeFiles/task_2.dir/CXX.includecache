@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/input_arguments.cpp
+iostream
+-
+cstdlib
+-
+filesystem
+-
+

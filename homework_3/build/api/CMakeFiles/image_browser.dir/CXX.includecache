@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/html_writer.hpp
+string
+-
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/image_browser.cpp
+image_browser.hpp
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/image_browser.hpp
+html_writer.hpp
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/html_writer.hpp
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_3/api/image_browser.hpp
+array
+-
+string
+-
+tuple
+-
+vector
+-
+

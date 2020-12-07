@@ -1,0 +1,8 @@
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/CMakeFiles/rebuild_cache.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/CMakeFiles/task_2.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/CMakeFiles/edit_cache.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/CMakeFiles/test.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/CMakeFiles/task_1.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/tests/CMakeFiles/rebuild_cache.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/tests/CMakeFiles/edit_cache.dir
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/build/tests/CMakeFiles/test.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homeword_2/guessing_game.cpp
+iostream
+-
+random
+-
+cstdlib
+-
+
