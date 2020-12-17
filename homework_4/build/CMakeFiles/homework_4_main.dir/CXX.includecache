@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/homework_4.cpp
+homework_4.h
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/homework_4.h
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/homework_4.h
+iostream
+-
+vector
+-
+algorithm
+-
+homework_4.cpp
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/homework_4.cpp
+
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/main.cpp
+iostream
+-
+vector
+-
+string
+-
+homework_4.h
+/home/jinzhao/Desktop/Modern-Cpp-2020/homework_4/homework_4.h
+
